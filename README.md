@@ -8,13 +8,13 @@
   </p>
 
   <!-- Badges de Contato (Estilo Botões) -->
-  <a href="https://linkedin.com/in/gustavomateus">
+  <a href="https://www.linkedin.com/in/gustavo-mateus-magalh%C3%A3es-b11044397/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=a3ff00" alt="LinkedIn">
   </a>
   <a href="mailto:gustavomateusmagalhaespessoal@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=a3ff00" alt="Gmail">
   </a>
-  <a href="https://github.com/gustavomateusmagalhaespessoal-sketch">
+  <a href="https://gustavomateusmagalhaespessoal-sketch.github.io/Portifolio/">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=a3ff00" alt="Portfolio">
   </a>
 </div>
