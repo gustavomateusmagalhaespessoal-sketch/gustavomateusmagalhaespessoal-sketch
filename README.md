@@ -4,7 +4,7 @@
 
   <!-- Subtítulo estilo Terminal -->
   <p align="center">
-    <code>>_ Full Stack Developer & Cyber Security Enthusiast</code>
+    <code>>_ Full Stack Developer & Design UI/UX Enthusiast</code>
   </p>
 
   <!-- Badges de Contato (Estilo Botões) -->
@@ -24,7 +24,7 @@
 <!-- Seção Sobre Mim -->
 ### 👾 Sobre mim
 
-Estudante de Full Stack Developer & Cyber Security. Atualmente focado em **C# e ASP.NET Core, SQL databases**, explorando como proteger sistemas desde a arquitetura até a camada de dados. Aplico esses conhecimentos em projetos pessoais, desenvolvendo aplicações que envolvem back-end, bancos de dados e consumo de APIs no front-end.
+Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET Core, SQL databases**, explorando como proteger sistemas desde a arquitetura até a camada de dados. Aplico esses conhecimentos em projetos pessoais, desenvolvendo aplicações que envolvem back-end, bancos de dados e consumo de APIs no front-end.
 
 <br>
 
