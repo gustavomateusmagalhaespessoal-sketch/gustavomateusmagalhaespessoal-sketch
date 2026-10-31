@@ -46,17 +46,6 @@ Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET 
   
   <br><br>
 
-  <!-- Card de Estatísticas Gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavomateusmagalhaespessoal-sketch&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=a3ff00&icon_color=a3ff00&text_color=ffffff&border_color=a3ff00&rank_icon=github" alt="GitHub Stats" />
-  
-  <br><br>
-  
-  <!-- Card de Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomateusmagalhaespessoal-sketch&layout=compact&theme=dark&bg_color=0a0a0a&title_color=a3ff00&text_color=ffffff&border_color=a3ff00" alt="Top Languages" />
-</div>
-
-<br>
-
 <!-- Rodapé -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3ff00,100:0a0a0a&height=100&section=footer" width="100%"/>
