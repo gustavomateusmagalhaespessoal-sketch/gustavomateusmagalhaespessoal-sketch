@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Banner Superior (Link corrigido para aparecer a imagem) -->
+  <!-- Banner Superior -->
   <img src="https://raw.githubusercontent.com/gustavomateusmagalhaespessoal-sketch/gustavomateusmagalhaespessoal-sketch/main/Purple%20AMOLED%20PC%20wallpaper.jpg" width="100%" />
 
   <!-- Subtítulo estilo Terminal -->
@@ -7,7 +7,7 @@
     <code>>_ Full Stack Developer & Design UI/UX </code>
   </p>
 
-  <!-- Badges de Contato (Agora em Roxo) -->
+  <!-- Badges de Contato (Roxo) -->
   <a href="https://www.linkedin.com/in/gustavo-mateus-magalh%C3%A3es-b11044397/">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=b000ff" alt="LinkedIn">
   </a>
@@ -41,21 +41,23 @@ Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET 
 ### Statistics
 
 <div align="center">
-  <!-- Card de Streak (Sequência de commits) - Mudado para Roxo -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=888888&dates=888888" alt="GitHub Streak" />
+  <!-- Card de Streak (Servidor alternativo que funciona) -->
+  <img src="https://streak-stats.demolab.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=888888&dates=888888" alt="GitHub Streak" />
   
   <br><br>
 
-  <!-- Card de Estatísticas Gerais -->
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
+  <!-- Card de Estatísticas Gerais (Servidor Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavomateusmagalhaespessoal-sketch&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=b000ff&icon_color=b000ff&text_color=ffffff&border_color=b000ff&rank_icon=github" alt="GitHub Stats" />
   
   <br><br>
   
-  <!-- Card de Linguagens mais usadas -->
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
+  <!-- Card de Linguagens mais usadas (Servidor Vercel) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomateusmagalhaespessoal-sketch&layout=compact&theme=dark&bg_color=0a0a0a&title_color=b000ff&text_color=ffffff&border_color=b000ff" alt="Top Languages" />
 </div>
 
-<!-- Rodapé - Mudado para Roxo -->
+<br>
+
+<!-- Rodapé (Roxo) -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b000ff,100:0a0a0a&height=100&section=footer" width="100%"/>
 </div>
