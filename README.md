@@ -32,8 +32,7 @@ Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET 
 ### Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,
-figma,mysql,postgres&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,  figma,mysql,postgres&theme=dark" />
 </div>
 
 <br>
