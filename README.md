@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Superior (Você pode trocar o link por uma arte sua) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:a3ff00&height=200&section=header&text=Gustavo%20Mateus&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://github.com/gustavomateusmagalhaespessoal-sketch/gustavomateusmagalhaespessoal-sketch/blob/main/Purple%20AMOLED%20PC%20wallpaper.jpg"/>
 
   <!-- Subtítulo estilo Terminal -->
   <p align="center">
