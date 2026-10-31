@@ -1,21 +1,21 @@
 <div align="center">
-  <!-- Banner Superior (Você pode trocar o link por uma arte sua) -->
-  <img src="https://github.com/gustavomateusmagalhaespessoal-sketch/gustavomateusmagalhaespessoal-sketch/blob/main/Purple%20AMOLED%20PC%20wallpaper.jpg"/>
+  <!-- Banner Superior (Link corrigido para aparecer a imagem) -->
+  <img src="https://raw.githubusercontent.com/gustavomateusmagalhaespessoal-sketch/gustavomateusmagalhaespessoal-sketch/main/Purple%20AMOLED%20PC%20wallpaper.jpg" width="100%" />
 
   <!-- Subtítulo estilo Terminal -->
   <p align="center">
     <code>>_ Full Stack Developer & Design UI/UX </code>
   </p>
 
-  <!-- Badges de Contato (Estilo Botões) -->
+  <!-- Badges de Contato (Agora em Roxo) -->
   <a href="https://www.linkedin.com/in/gustavo-mateus-magalh%C3%A3es-b11044397/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=a3ff00" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=b000ff" alt="LinkedIn">
   </a>
   <a href="mailto:gustavomateusmagalhaespessoal@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=a3ff00" alt="Gmail">
+    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=b000ff" alt="Gmail">
   </a>
   <a href="https://gustavomateusmagalhaespessoal-sketch.github.io/Portifolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=a3ff00" alt="Portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=b000ff" alt="Portfolio">
   </a>
 </div>
 
@@ -41,12 +41,23 @@ Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET 
 ### Statistics
 
 <div align="center">
-  <!-- Card de Streak (Sequência de commits) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=a3ff00&stroke=a3ff00&ring=a3ff00&fire=a3ff00&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a3ff00&sideLabels=888888&dates=888888" alt="GitHub Streak" />
+  <!-- Card de Streak (Sequência de commits) - Mudado para Roxo -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavomateusmagalhaespessoal-sketch&theme=dark&background=0a0a0a&border=b000ff&stroke=b000ff&ring=b000ff&fire=b000ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=b000ff&sideLabels=888888&dates=888888" alt="GitHub Streak" />
   
   <br><br>
 
-<!-- Rodapé -->
+  <!-- Card de Estatísticas Gerais - Mudado para Roxo -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavomateusmagalhaespessoal-sketch&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=b000ff&icon_color=b000ff&text_color=ffffff&border_color=b000ff&rank_icon=github" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Card de Linguagens mais usadas - Mudado para Roxo -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavomateusmagalhaespessoal-sketch&layout=compact&theme=dark&bg_color=0a0a0a&title_color=b000ff&text_color=ffffff&border_color=b000ff" alt="Top Languages" />
+</div>
+
+<br>
+
+<!-- Rodapé - Mudado para Roxo -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3ff00,100:0a0a0a&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b000ff,100:0a0a0a&height=100&section=footer" width="100%"/>
 </div>
