@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write # Permissão para commitar as imagens geradas
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Generate stats card
         uses: stats-organization/github-readme-stats-action@v2
