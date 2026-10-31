@@ -22,14 +22,14 @@
 <br>
 
 <!-- Seção Sobre Mim -->
-### 👾 Sobre mim
+### Sobre mim
 
 Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET Core, SQL databases**, explorando como proteger sistemas desde a arquitetura até a camada de dados. Aplico esses conhecimentos em projetos pessoais, desenvolvendo aplicações que envolvem back-end, bancos de dados e consumo de APIs no front-end.
 
 <br>
 
 <!-- Seção de Tecnologias (Ícones) -->
-### 🛠️ Technologies
+### Technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,java,php,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,figma,mysql,postgres&theme=dark" />
@@ -38,7 +38,7 @@ Estudante de Full Stack Developer & Design. Atualmente focado em **C# e ASP.NET 
 <br>
 
 <!-- Seção de Estatísticas (Cards) -->
-### 📊 Statistics
+### Statistics
 
 <div align="center">
   <!-- Card de Streak (Sequência de commits) -->
