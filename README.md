@@ -4,7 +4,7 @@
 
   <!-- Subtítulo estilo Terminal -->
   <p align="center">
-    <code>>_ Full Stack Developer & Design UI/UX Enthusiast</code>
+    <code>>_ Full Stack Developer & Design UI/UX </code>
   </p>
 
   <!-- Badges de Contato (Estilo Botões) -->
